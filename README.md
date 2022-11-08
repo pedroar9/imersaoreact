@@ -2,8 +2,7 @@
 
 
 
-https://raw.githubusercontent.com/pedroar9/imersaoreact/main/src/components/aluratube.png
-
+https://github.com/pedroar9/imersaoreact/blob/main/src/components/aluratube.png
 
 
 
