@@ -38,11 +38,6 @@
                 "title": "We Were Here Together - Os Enigmas deste Mundo",
                 "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
                 "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
-            },
-            {
-                "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
-                "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-                "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
             }
         ],
         "front-end": [
@@ -80,17 +75,8 @@
                 "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
                 "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
                 "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
-            },
-            {
-                "title": "5 Erros Históricos do CSS",
-                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
-                "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
-            },
-            {
-                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
-                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
-                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
             }
+    
         ],
         "back-end": [
             {
