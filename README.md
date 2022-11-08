@@ -2,7 +2,7 @@
 
 
 
-![Foto](https://raw.githubusercontent.com/pedroar9/imersaoreact/ee3010416eb81722ac68518e88fab0a1e1b581b6/src/aluratube.png)
+![Foto](https://raw.githubusercontent.com/pedroar9/imersaoreact/ee3010416eb81722ac68518e88fab0a1e1b581b6/src/components/aluratube.png)
 
 
 
