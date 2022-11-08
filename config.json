@@ -2,7 +2,7 @@
     "name": "Pedro (pedroar9)",
     "job": "DevOps",
     "github": "pedroar9",
-    "bg": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "bg": "https://images.unsplash.com/photo-1600250005630-12fb94ff4f11?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=330&q=80",
     "playlists": {
         "jogos": [
             {
@@ -43,19 +43,19 @@
         ],
         "front-end": [
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-                "url": "https://youtube.com/watch?v=jOAU81jdi-c",
-                "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+                "title": "O que o JavaScript é capaz de fazer?",
+                "url": "https://youtube.com/watch?v=Ptbk2af68e8",
+                "thumb": "https://img.youtube.com/vi/Ptbk2af68e8/hqdefault.jpg"
             },
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-                "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-                "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+                "title": "Aprenda a Desenvolver um Blog em Menos de 20 Minutos usando React e Next.js",
+                "url": "https://www.youtube.com/watch?v=Ij-B0Yiizyw",
+                "thumb": "https://img.youtube.com/vi/Ij-B0Yiizyw/hqdefault.jpg"
             },
             {
-                "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
-                "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
-                "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+                "title": "React: O minimo de base que você precisa saber para não sofrer começando com a ferramenta",
+                "url": "https://www.youtube.com/watch?v=4BxrxiMMjcA",
+                "thumb": "https://img.youtube.com/vi/4BxrxiMMjcA/hqdefault.jpg"
             },
             {
                 "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
@@ -63,14 +63,14 @@
                 "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
             },
             {
-                "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
-                "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
-                "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+                "title": "Se Você Passar Por Esses 5 Desafios, Você Aprendeu React JS",
+                "url": "https://www.youtube.com/watch?v=aJR7f45dBNs",
+                "thumb": "https://img.youtube.com/vi/aJR7f45dBNs/hqdefault.jpg"
             },
             {
-                "title": "Como Foi Programado um App Que Faz Mágica",
-                "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
-                "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+                "title": "TUDO que você deve estudar de JavaScript antes do React",
+                "url": "https://www.youtube.com/watch?v=37SwqREHRGI",
+                "thumb": "https://img.youtube.com/vi/37SwqREHRGI/hqdefault.jpg"
             },
             {
                 "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
