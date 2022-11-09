@@ -1,6 +1,6 @@
 {
     "name": "Pedro (pedroar9)",
-    "job": "DevOps",
+    "job": "Systems Analyst",
     "github": "pedroar9",
     "bg": "https://images.unsplash.com/photo-1600250005630-12fb94ff4f11?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=330&q=80",
     "playlists": {
@@ -106,9 +106,19 @@
         ],
         "back-end": [
             {
-                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-                "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
-                "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+                "title": "Evolução App BB",
+                "url": "https://www.youtube.com/watch?v=nwq0ruaL4Ew",
+                "thumb": "https://img.youtube.com/vi/nwq0ruaL4Ew/hqdefault.jpg"
+            },
+            {
+                "title": "O que você precisa saber para começar em DevOps",
+                "url": "https://www.youtube.com/watch?v=IQ8-_khQATQ",
+                "thumb": "https://img.youtube.com/vi/IQ8-_khQATQ/hqdefault.jpg"
+            },
+            {
+                "title": "O que é API? REST e RESTful?",
+                "url": "https://www.youtube.com/watch?v=ghTrp1x_1As",
+                "thumb": "https://img.youtube.com/vi/ghTrp1x_1As/hqdefault.jpg"
             },
             {
                 "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
@@ -121,24 +131,49 @@
                 "thumb": "https://img.youtube.com/vi/TJ90DZjYdWI/hqdefault.jpg"
             },
             {
-                "title": "O que é Machine Learning? #HipstersPontoTube",
+                "title": "Como Fazer Uma API (o jeito mais fácil e moderno que eu já vi)",
+                "url": "https://www.youtube.com/watch?v=f7JWDLFhR_c",
+                "thumb": "https://img.youtube.com/vi/f7JWDLFhR_c/hqdefault.jpg"
+            },
+            {
+                "title": "O que é Machine Learning?",
                 "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
                 "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
             },
             {
-                "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
-                "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+                "title": "Foo Bar (você já viu eles em algum código?) ",
+                "url": "https://www.youtube.com/watch?v=XpdHTft6FlI",
+                "thumb": "https://img.youtube.com/vi/XpdHTft6FlI/hqdefault.jpg"
             },
             {
-                "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
-                "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+                "title": "Nodejs - Criando documentação com Swagger",
+                "url": "https://www.youtube.com/watch?v=WhFx2heoFrA",
+                "thumb": "https://img.youtube.com/vi/WhFx2heoFrA/hqdefault.jpg"
             },
             {
-                "title": "O que é o C#? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
-                "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+                "title": "Me veja programar um Backend que troca informação em tempo-real!",
+                "url": "https://www.youtube.com/watch?v=rc3SSOiwTns",
+                "thumb": "https://img.youtube.com/vi/rc3SSOiwTns/hqdefault.jpg"
+            },
+            {
+                "title": "CRUD com Node.JS, Express, TypeORM e PostgreSQL ",
+                "url": "https://www.youtube.com/watch?v=9AO2hZJsHrs",
+                "thumb": "https://img.youtube.com/vi/9AO2hZJsHrs/hqdefault.jpg"
+            },
+            {
+                "title": "Low Code",
+                "url": "https://www.youtube.com/watch?v=z0W6smxaF4s",
+                "thumb": "https://img.youtube.com/vi/z0W6smxaF4s/hqdefault.jpg"
+            },
+            {
+                "title": "Entenda as diferenças de Git, GitHub e GitLab",
+                "url": "https://www.youtube.com/watch?v=_i9DUJcn-mU",
+                "thumb": "https://img.youtube.com/vi/_i9DUJcn-mU/hqdefault.jpg"
+            },
+            {
+                "title": "Mock Objects (Teste suas Classes com CLASSE 😜)",
+                "url": "https://www.youtube.com/watch?v=-pdGBoiIvyc",
+                "thumb": "https://img.youtube.com/vi/-pdGBoiIvyc/hqdefault.jpg"
             }
         ]
     }
