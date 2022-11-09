@@ -34,6 +34,7 @@ const StyledSearch = styled.div`
   }
 `;
 
+// No react as informações são renderizadas sempre descendo
 // Home 
 // Menu
 // Search

@@ -11,17 +11,17 @@
                 "thumb": "https://img.youtube.com/vi/xI284D4y1q4/hqdefault.jpg"
             },
             {
-                "title": "O Primeiro Mortal Kombat - O Nascimento de uma Lenda",
+                "title": "O Primeiro Mortal Kombat - 1992 - O Nascimento de uma Lenda",
                 "url": "https://www.youtube.com/watch?v=_8QpGMotH8g",
                 "thumb": "https://img.youtube.com/vi/_8QpGMotH8g/hqdefault.jpg"
             },
             {
-                "title": "Prince of Persia 2: Hall of Fame Speedrun",
+                "title": "Prince of Persia 2: Hall of Fame Speedrun - 1993",
                 "url": "https://www.youtube.com/watch?v=B3bOEBCZcPw",
                 "thumb": "https://img.youtube.com/vi/B3bOEBCZcPw/hqdefault.jpg"
             },
             {
-                "title": "Samurai Shodown - As Melhores Curiosidades",
+                "title": "Samurai Shodown - As Melhores Curiosidades - 1993",
                 "url": "https://www.youtube.com/watch?v=8j-Uz8Dnikw",
                 "thumb": "https://img.youtube.com/vi/8j-Uz8Dnikw/hqdefault.jpg"
             },
@@ -51,6 +51,16 @@
                 "thumb": "https://img.youtube.com/vi/_-ahV7ZjDis/hqdefault.jpg"
             },
             {
+                "title": "Fifa International Soccer (SNES) - 1994",
+                "url": "https://www.youtube.com/watch?v=-KO9ahpywqw",
+                "thumb": "https://img.youtube.com/vi/-KO9ahpywqw/hqdefault.jpg"
+            },
+            {
+                "title": "Fifa: Road to World Cup 98 (Play1) - 1997",
+                "url": "https://www.youtube.com/watch?v=kwsmLOgM9aI",
+                "thumb": "https://img.youtube.com/vi/kwsmLOgM9aI/hqdefault.jpg"
+            },
+            {
                 "title": "Super Mario Bros. (NES) - 1985",
                 "url": "https://www.youtube.com/watch?v=rLl9XBg7wSs",
                 "thumb": "https://img.youtube.com/vi/rLl9XBg7wSs/hqdefault.jpg"
@@ -67,6 +77,21 @@
             }
         ],
         "front-end": [
+            {
+                "title": "Como criar um jogo SIMPLES usando JavaScript e HTML",
+                "url": "https://youtube.com/watch?v=r9buAwVBDhA",
+                "thumb": "https://img.youtube.com/vi/r9buAwVBDhA/hqdefault.jpg"
+            },
+            {
+                "title": "Conheça as diferenças entre Java e JavaScript",
+                "url": "https://youtube.com/watch?v=_k-kTgVvn8o",
+                "thumb": "https://img.youtube.com/vi/_k-kTgVvn8o/hqdefault.jpg"
+            },  
+            {
+                "title": "JavaScript não é Java - Entendam a diferença",
+                "url": "https://youtube.com/watch?v=-ii4YmI5SFQ",
+                "thumb": "https://img.youtube.com/vi/-ii4YmI5SFQ/hqdefault.jpg"
+            }, 
             {
                 "title": "O que o JavaScript é capaz de fazer?",
                 "url": "https://youtube.com/watch?v=Ptbk2af68e8",
