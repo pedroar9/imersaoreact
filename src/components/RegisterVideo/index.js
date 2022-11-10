@@ -39,7 +39,7 @@ export default function RegisterVideo() {
 
     return (
         <StyledRegisterVideo>
-            <button className="add-video" onClick={() => setFormVisivel(false)}>
+            <button className="add-video" onClick={() => setFormVisivel(true)}>
                 +
             </button>
             {/* Ternário */}
