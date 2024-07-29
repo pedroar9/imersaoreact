@@ -43,13 +43,13 @@ npm install next react react-dom styled-components @supabase/supabase-js
 npm i ou npm install
 ```
 
-- Para rodar o projeto:
+- Para rodar o projeto localmente:
 
 ```bash
 npm run dev
 ```
 
-- 🌐 Para verificar, no navegador acesse:  
+- 🌐 Para verificar o projeto rodando, acesse no navegador:  
 <http://localhost:3000>
 
 ## 📌 Onde está o Layout base do projeto?
