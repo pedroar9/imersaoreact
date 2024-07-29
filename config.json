@@ -4,7 +4,308 @@
     "github": "pedroar9",
     "bg": "https://images.unsplash.com/photo-1600250005630-12fb94ff4f11?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=330&q=80",
     "playlists": {
-        "jogos": [
+        "🎲 Ciência de Dados 🎲": [
+         {
+            "title": "O que é Data Science? #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU",
+            "thumb": "https://img.youtube.com/vi/5b9Z8toVaAU/hqdefault.jpg"
+         },
+         {
+            "title": "Uma AULA sobre DATA SCIENCE",
+            "url": "https://www.youtube.com/watch?v=eaJmOaSd2EM",
+            "thumb": "https://img.youtube.com/vi/eaJmOaSd2EM/hqdefault.jpg"
+        },
+         {
+            "title": "Introdução a Análise de Dados com Python - [Primeiros Passos]",
+            "url": "https://www.youtube.com/watch?v=kCMaqla6Grs",
+            "thumb": "https://img.youtube.com/vi/kCMaqla6Grs/hqdefault.jpg"
+        },
+        {
+            "title": "Guia de Carreira: Engenharia de Dados",
+            "url": "https://www.youtube.com/watch?v=-CbFz9cvWhE",
+            "thumb": "https://img.youtube.com/vi/-CbFz9cvWhE/hqdefault.jpg"
+        },
+        {
+            "title": "O que realmente é Ciência de Dados? Explicado por um Cientista de Dados",
+            "url": "https://www.youtube.com/watch?v=xC-c7E5PK0Y",
+            "thumb": "https://img.youtube.com/vi/xC-c7E5PK0Y/hqdefault.jpg"
+        },
+        {
+            "title": "Data Science: Introdução a Ciência de Dados",
+            "url": "https://www.youtube.com/watch?v=F608hzn_ygo",
+            "thumb": "https://img.youtube.com/vi/F608hzn_ygo/hqdefault.jpg"
+        },
+        {
+            "title": "BIG DATA | Nerdologia",
+            "url": "https://www.youtube.com/watch?v=hEFFCKxYbKM",
+            "thumb": "https://img.youtube.com/vi/hEFFCKxYbKM/hqdefault.jpg"
+        },
+        {
+            "title": "Como se Tornar um Cientista de Dados de Sucesso",
+            "url": "https://www.youtube.com/watch?v=-vawLSNdo-A",
+            "thumb": "https://img.youtube.com/vi/-vawLSNdo-A/hqdefault.jpg"
+        },
+        {
+            "title": "Cientista de Dados vs Analista de Dados vs Engenheiro de Dados - Entenda as profissões.",
+            "url": "https://www.youtube.com/watch?v=y-iLp5tp6K0",
+            "thumb": "https://img.youtube.com/vi/y-iLp5tp6K0/hqdefault.jpg"
+        },
+        {
+            "title": "Os PROBLEMAS do BIG DATA",
+            "url": "https://www.youtube.com/watch?v=dBE4-XVbL7I",
+            "thumb": "https://img.youtube.com/vi/dBE4-XVbL7I/hqdefault.jpg"
+        },
+        {
+            "title": "Data Warehouse / Data Lake / Data Lakehouse // Dicionário do Programador",
+            "url": "https://www.youtube.com/watch?v=V07Pk4de-5M",
+            "thumb": "https://img.youtube.com/vi/V07Pk4de-5M/hqdefault.jpg"
+        },
+        {
+            "title": "Os 4 principais pilares do Data Mesh",
+            "url": "https://www.youtube.com/watch?v=rebHscmEEN4",
+            "thumb": "https://img.youtube.com/vi/rebHscmEEN4/hqdefault.jpg"
+        },
+        {
+            "title": "Data Mesh para Dummies",
+            "url": "https://www.youtube.com/watch?v=VAudNBTdXRw",
+            "thumb": "https://img.youtube.com/vi/VAudNBTdXRw/hqdefault.jpg"
+        },
+        {
+            "title": "O case de data mesh no Itaú",
+            "url": "https://www.youtube.com/watch?v=xLMZBEqF0FY",
+            "thumb": "https://img.youtube.com/vi/xLMZBEqF0FY/hqdefault.jpg"
+        },
+        {
+            "title": "Data Mesh, Data Lake ou Data Warehouse? Que arquitetura utilizar?",
+            "url": "https://www.youtube.com/watch?v=nFcPJOGkMh8",
+            "thumb": "https://img.youtube.com/vi/nFcPJOGkMh8/hqdefault.jpg"
+        },
+        {
+            "title": "Diferenças entre OLTP e OLAP",
+            "url": "https://www.youtube.com/watch?v=yfAPYtqUEOQ",
+            "thumb": "https://img.youtube.com/vi/yfAPYtqUEOQ/hqdefault.jpg"
+        },
+        {
+            "title": "Pipeline ETL/ELT",
+            "url": "https://www.youtube.com/watch?v=cYH73bq6tZU",
+            "thumb": "https://img.youtube.com/vi/cYH73bq6tZU/hqdefault.jpg"
+        },
+        {
+            "title": "Curso SQL Completo - Iniciantes + Desafios + Muita Prática",
+            "url": "https://www.youtube.com/watch?v=rX2I7OjLqWE",
+            "thumb": "https://img.youtube.com/vi/rX2I7OjLqWE/hqdefault.jpg"
+        }    
+    ],
+    "🎶 RAP 🎶": [
+        {
+            "title": "Eazy E - Boyz-n-the-Hood",
+            "url": "https://www.youtube.com/watch?v=PIU07K_28ck",
+            "thumb": "https://img.youtube.com/vi/PIU07K_28ck/hqdefault.jpg"
+        },   
+        {
+            "title": "Kendrick Lamar - Not Like Us",
+            "url": "https://www.youtube.com/watch?v=H58vbez_m4E",
+            "thumb": "https://img.youtube.com/vi/H58vbez_m4E/hqdefault.jpg"
+        },
+        {
+            "title": "Dr. Dre feat. Snoop Dogg, Kurupt, Nate Dogg - The Next Episode",
+            "url": "https://www.youtube.com/watch?v=QZXc39hT8t4",
+            "thumb": "https://img.youtube.com/vi/QZXc39hT8t4/hqdefault.jpg"
+        },
+        {
+            "title": "2Pac - Hit 'Em Up",
+            "url": "https://www.youtube.com/watch?v=41qC3w3UUkU",
+            "thumb": "https://img.youtube.com/vi/41qC3w3UUkU/hqdefault.jpg"
+        },
+        {
+            "title": "The Notorious B.I.G. - Juicy ",
+            "url": "https://www.youtube.com/watch?v=_JZom_gVfuw",
+            "thumb": "https://img.youtube.com/vi/_JZom_gVfuw/hqdefault.jpg"
+        },
+        {
+            "title": "Nas feat. Lauryn Hill - If I Ruled the World (Imagine That)",
+            "url": "https://www.youtube.com/watch?v=mlp-IIG9ApU",
+            "thumb": "https://img.youtube.com/vi/mlp-IIG9ApU/hqdefault.jpg"
+        }, 
+        {
+            "title": "Three 6 Mafia feat. 8Ball & MJG and Young Buck - Stay Fly",
+            "url": "https://www.youtube.com/watch?v=vBjzAdpZzf0",
+            "thumb": "https://img.youtube.com/vi/vBjzAdpZzf0/hqdefault.jpg"
+        }, 
+        {
+            "title": "Bone Thugs N Harmony - Crossroads",
+            "url": "https://www.youtube.com/watch?v=VMYAEHE2GrM",
+            "thumb": "https://img.youtube.com/vi/VMYAEHE2GrM/hqdefault.jpg"
+        }, 
+        {
+            "title": "Akon feat. Eminem - Smack That",
+            "url": "https://www.youtube.com/watch?v=bKDdT_nyP54",
+            "thumb": "https://img.youtube.com/vi/bKDdT_nyP54/hqdefault.jpg"
+        },
+        {
+            "title": "Travis Scott feat. Drake - SICKO MODE",
+            "url": "https://www.youtube.com/watch?v=6ONRf7h3Mdk",
+            "thumb": "https://img.youtube.com/vi/6ONRf7h3Mdk/hqdefault.jpg"
+        },
+        {
+            "title": "Sean Paul - I'm Still In Love With You",
+            "url": "https://www.youtube.com/watch?v=AQ4TW5Z8eu0",
+            "thumb": "https://img.youtube.com/vi/AQ4TW5Z8eu0/hqdefault.jpg"
+        },
+        {
+            "title": "Kendrick Lamar - HUMBLE.",
+            "url": "https://www.youtube.com/watch?v=tvTRZJ-4EyI",
+            "thumb": "https://img.youtube.com/vi/tvTRZJ-4EyI/hqdefault.jpg"
+        },
+        {
+            "title": "Wu-Tang Clan - C.R.E.A.M.",
+            "url": "https://www.youtube.com/watch?v=PBwAxmrE194",
+            "thumb": "https://img.youtube.com/vi/PBwAxmrE194/hqdefault.jpg"
+        },
+        {
+            "title": "Nelly feat. Kelly Rowland - Dilemma",
+            "url": "https://www.youtube.com/watch?v=8WYHDfJDPDc",
+            "thumb": "https://img.youtube.com/vi/8WYHDfJDPDc/hqdefault.jpg"
+        },
+        {
+            "title": "Cardi B - Bodak Yellow",
+            "url": "https://www.youtube.com/watch?v=PEGccV-NOm8",
+            "thumb": "https://img.youtube.com/vi/PEGccV-NOm8/hqdefault.jpg"
+        },
+        {
+            "title": "2Pac - Dear Mama",
+            "url": "https://www.youtube.com/watch?v=Mb1ZvUDvLDY",
+            "thumb": "https://img.youtube.com/vi/Mb1ZvUDvLDY/hqdefault.jpg"
+        },
+        {
+            "title": "Alicia Keys - Fallin'",
+            "url": "https://www.youtube.com/watch?v=Urdlvw0SSEc",
+            "thumb": "https://img.youtube.com/vi/Urdlvw0SSEc/hqdefault.jpg"
+        }, 
+        {
+            "title": "A$AP Rocky feat. Skepta - Praise The Lord (Da Shine)",
+            "url": "https://www.youtube.com/watch?v=Kbj2Zss-5GY",
+            "thumb": "https://img.youtube.com/vi/Kbj2Zss-5GY/hqdefault.jpg"
+        }, 
+        {
+            "title": "50 Cent feat. Nate Dogg - 21 Questions",
+            "url": "https://www.youtube.com/watch?v=cDMhlvbOFaM",
+            "thumb": "https://img.youtube.com/vi/cDMhlvbOFaM/hqdefault.jpg"
+        }, 
+        {
+            "title": "Mike Jones feat. Slim Thug and Paul Wall - Still Tippin'",
+            "url": "https://www.youtube.com/watch?v=7ZAYzLjQAd4",
+            "thumb": "https://img.youtube.com/vi/7ZAYzLjQAd4/hqdefault.jpg"
+        }, 
+        {
+            "title": "UGK feat. OutKast - Int’l Players Anthem (I Choose You)",
+            "url": "https://www.youtube.com/watch?v=awMIbA34MT8",
+            "thumb": "https://img.youtube.com/vi/awMIbA34MT8/hqdefault.jpg"
+        },
+        {
+            "title": "J. Cole - MIDDLE CHILD",
+            "url": "https://www.youtube.com/watch?v=WILNIXZr2oc",
+            "thumb": "https://img.youtube.com/vi/WILNIXZr2oc/hqdefault.jpg"
+        },
+        {
+            "title": "Fugees - Ready or Not",
+            "url": "https://www.youtube.com/watch?v=aIXyKmElvv8",
+            "thumb": "https://img.youtube.com/vi/aIXyKmElvv8/hqdefault.jpg"
+        },
+        {
+            "title": "Coolio feat. L.V.- Gangsta's Paradise",
+            "url": "https://www.youtube.com/watch?v=SQCSxqScSVQ",
+            "thumb": "https://img.youtube.com/vi/SQCSxqScSVQ/hqdefault.jpg"
+        },
+        {
+            "title": "Mary J. Blige - Family Affair",
+            "url": "https://www.youtube.com/watch?v=znlFu_lemsU",
+            "thumb": "https://img.youtube.com/vi/znlFu_lemsU/hqdefault.jpg"
+        },
+        {
+            "title": "Ice Cube - It Was A Good Day",
+            "url": "https://www.youtube.com/watch?v=h4UqMyldS7Q",
+            "thumb": "https://img.youtube.com/vi/h4UqMyldS7Q/hqdefault.jpg"
+        },
+        {
+            "title": "Outkast - Hey Ya!",
+            "url": "https://www.youtube.com/watch?v=PWgvGjAhvIw",
+            "thumb": "https://img.youtube.com/vi/PWgvGjAhvIw/hqdefault.jpg"
+        },
+        {
+            "title": "JAY-Z feat. Alicia Keys - Empire State Of Mind",
+            "url": "https://www.youtube.com/watch?v=vk6014HuxcE",
+            "thumb": "https://img.youtube.com/vi/vk6014HuxcE/hqdefault.jpg"
+        },
+        {
+            "title": "Black Eyed Peas - Where Is The Love?",
+            "url": "https://www.youtube.com/watch?v=WpYeekQkAdc",
+            "thumb": "https://img.youtube.com/vi/WpYeekQkAdc/hqdefault.jpg"
+        },
+        {
+            "title": "Nate Dogg - Music and me",
+            "url": "https://www.youtube.com/watch?v=nrXDolxczmw",
+            "thumb": "https://img.youtube.com/vi/nrXDolxczmw/hqdefault.jpg"
+        },
+        {
+            "title": "Luniz - I Got 5 on it",
+            "url": "https://www.youtube.com/watch?v=WDEWuPJzfhk",
+            "thumb": "https://img.youtube.com/vi/WDEWuPJzfhk/hqdefault.jpg"
+        },
+        {
+            "title": "Usher feat. Lil Jon, Ludacris - Yeah!",
+            "url": "https://www.youtube.com/watch?v=GxBSyx85Kp8",
+            "thumb": "https://img.youtube.com/vi/GxBSyx85Kp8/hqdefault.jpg"
+        },
+        {
+            "title": "Ja Rule feat. Ashanti - Always On Time",
+            "url": "https://www.youtube.com/watch?v=0tcDXJfAFVw",
+            "thumb": "https://img.youtube.com/vi/0tcDXJfAFVw/hqdefault.jpg"
+        },
+        {
+            "title": "T-Pain feat. Mike Jones - I'm N Luv (Wit A Stripper)",
+            "url": "https://www.youtube.com/watch?v=QjgZZGo881E",
+            "thumb": "https://img.youtube.com/vi/QjgZZGo881E/hqdefault.jpg"
+        },
+        {
+            "title": "Nelly feat. Paul Wall, Ali & Gipp - Grillz",
+            "url": "https://www.youtube.com/watch?v=8fijggq5R6w",
+            "thumb": "https://img.youtube.com/vi/8fijggq5R6w/hqdefault.jpg"
+        },
+        {
+            "title": "Lil' Scrappy - No Problem",
+            "url": "https://www.youtube.com/watch?v=5DfqsVmd2wI",
+            "thumb": "https://img.youtube.com/vi/5DfqsVmd2wI/hqdefault.jpg"
+        },
+        {
+            "title": "Lil Jon & The East Side Boyz x Lil Scrappy - What U Gon' Do",
+            "url": "https://www.youtube.com/watch?v=7LOoSNOe_UM",
+            "thumb": "https://img.youtube.com/vi/7LOoSNOe_UM/hqdefault.jpg"
+        },
+        {
+            "title": "Chamillionaire feat. Krayzie Bone - Ridin'",
+            "url": "https://www.youtube.com/watch?v=CtwJvgPJ9xw",
+            "thumb": "https://img.youtube.com/vi/CtwJvgPJ9xw/hqdefault.jpg"
+        },
+        {
+            "title": "Busta Rhymes feat. Mariah Carey & Flipmode Squad - I Know What You Want ",
+            "url": "https://www.youtube.com/watch?v=WDaNJW_jEBo",
+            "thumb": "https://img.youtube.com/vi/WDaNJW_jEBo/hqdefault.jpg"
+        },
+        {
+            "title": "Destiny's Child feat. T.I., Lil' Wayne - Soldier",
+            "url": "https://www.youtube.com/watch?v=qFJ3VKnwmJw",
+            "thumb": "https://img.youtube.com/vi/qFJ3VKnwmJw/hqdefault.jpg"
+        },
+        {
+            "title": "Twista feat. Kanye West: Overnight Celebrity",
+            "url": "https://www.youtube.com/watch?v=1MJznAtgkwU",
+            "thumb": "https://img.youtube.com/vi/1MJznAtgkwU/hqdefault.jpg"
+        }
+         
+          
+        ],
+        "🕹️ Jogos 🕹️": [
             {
                 "title": "Street Fighter II: The World Warrior - 1991",
                 "url": "https://www.youtube.com/watch?v=xI284D4y1q4",
@@ -76,7 +377,7 @@
                 "thumb": "https://img.youtube.com/vi/mF9CxAulk04/hqdefault.jpg"
             }
         ],
-        "front-end": [
+        "🖥️ Front-end 🖥️": [
             {
                 "title": "Como criar um jogo SIMPLES usando JavaScript e HTML",
                 "url": "https://youtube.com/watch?v=r9buAwVBDhA",
@@ -129,7 +430,7 @@
             }
     
         ],
-        "back-end": [
+        "👩‍💻 Back-end 👩🏾‍💻": [
             {
                 "title": "Evolução App BB",
                 "url": "https://www.youtube.com/watch?v=nwq0ruaL4Ew",
