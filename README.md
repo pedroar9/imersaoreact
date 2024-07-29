@@ -5,10 +5,13 @@
 O AluraTube é uma projeto da imersão da Alura, projeto desenvolvido durante a imersão Alura com o objetivo de criar uma versão customizada da plataforma YouTube com o layout distribuido por meio do [figma](https://www.figma.com/file/1acrju7CLwHkSh6e7xEk9h/Aluratube?node-id=0%3A1) utilizando React e NextJS.  
 Os vídeos iniciais são pegados dentro de um arquivo que armazena os dados necessários para que o site consiga retorna-los, chamado de JSON, dentro dela também é possível pegar a foto do meu perfil do GitHub.
 
+* Light Mode
+<img src="src/components/aluratube_light.png"/>
 
-<img src="src/components/aluratube.png"/>
+* Dark Mode
+<img src="src/components/aluratube_dark.png"/>
 
- - Podemos fazer algumas interações no site, como filtrar os vídeos no campo de busca, mudar o tema do site cliclando no botão acima que vai de dark-mode ou light-mode.
+ - Podemos fazer algumas interações no site, como filtrar os vídeos no campo de busca, mudar o tema do site cliclando no botão acima que vai de Light Mode e Dark Mode.
 
 ## Requisitos para execução:
 ### Como rodar o projéto localmente?
