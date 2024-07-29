@@ -10,6 +10,36 @@ Os vídeos iniciais são pegados dentro de um arquivo que armazena os dados nece
 
  - Podemos fazer algumas interações no site, como filtrar os vídeos no campo de busca, mudar o tema do site cliclando no botão acima que vai de dark-mode ou light-mode.
 
+## Requisitos para execução:
+### Como rodar o projéto localmente?
+Primeiramente é preciso cumprir  os seguintes requisitos:
+* Possuir o `nodejs` instalado
+* Ter todas as dependências instaladas
+
+Primeiro, clone esse repositório utilizando a seguinte linha no terminal:
+  ```
+  git clone https://github.com/pedroar9/imersaoreact.git
+  ```
+
+
+* Instalação das blibiotecas via npm (obtido com a instalação do Node.JS);
+```bash
+npm install next react react-dom styled-components @supabase/supabase-js
+```
+
+* Instalação das depências que faltar para executar
+```bash
+npm i ou npm install
+```
+
+* Para rodar o projeto:
+```bash
+npm run dev
+```
+
+* Para verificar, no navegador acesse:  
+<http://localhost:3000>
+
 ## Onde está o Layout base do projeto?
 - [Link para Figma do projeto](https://www.figma.com/file/1acrju7CLwHkSh6e7xEk9h/Aluratube?node-id=0%3A1)
 
