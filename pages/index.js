@@ -104,12 +104,16 @@ function Timeline({searchValue, ...props}) {
                   return titleNormalized.includes(searchValueNormalized)
                 }).
                 map((video) => {
-                  return(
-                      <a href={video.url} key={video.thumb}>
-                          <img src={video.thumb} />
-                          <span>{video.title}</span>
-                      </a>
-                  )
+                  return (
+                    <a href={video.url} 
+                       key={video.thumb}
+                       target="_blank"
+                       rel="noopener noreferrer"
+                    >
+                      <img src={video.thumb} alt={video.title}/>
+                      <span>{video.title}</span>
+                    </a>
+                  );
                 })}
             </div>
           </section>
